@@ -1,0 +1,12 @@
+logs.md
+*.txt
+toggle.py
+data/prev/
+data/lj_data/
+install_script.zsh
+logs/
+**/__pycache__/
+experiments/
+*.npy
+*.log 
+.vscode/

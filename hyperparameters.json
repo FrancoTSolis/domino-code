@@ -1,0 +1,26 @@
+{
+    "total_dt": [100, 200, 1000, 2000, 3000, 5000, 8000], 
+    "schedules": [
+      {
+        "epochs": {
+          "start": 1,
+          "end": 6
+        },
+        "weights": [1.0, 0.0, 0.0]
+      },
+      {
+        "epochs": {
+          "start": 6,
+          "end": 11
+        },
+        "weights": [0.3, 0.7, 0.0]
+      },
+      {
+        "epochs": {
+          "start": 11,
+          "end": "remaining"
+        },
+        "weights": [0.1, 0.1, 0.8]
+      }
+    ]
+}
