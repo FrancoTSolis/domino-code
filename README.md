@@ -1,4 +1,6 @@
-### Implementation for "DoMiNO: Down-scaling Molecular Dynamics with Neural Graph Ordinary  Differential Equations"
+### Implementation for "DoMiNO: Down-scaling Molecular Dynamics with Neural Graph Ordinary Differential Equations" 
+
+Link: https://openreview.net/forum?id=T86jIuSi5A 
 
 To generate data, run: 
 
